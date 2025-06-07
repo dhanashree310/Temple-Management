@@ -1,0 +1,19 @@
+/*Volunteer 
+.volunteer{
+  background-color: #cefdfb;
+  background-size: cover;
+  top : 10px;
+  bottom : 20px;
+}*/
+
+  body {
+    background-image: url('otms/images/bac1.jpg'); 
+    background-size: cover; 
+  }
+  
+  .volunteer {   
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 940px; 
+    
+  }
